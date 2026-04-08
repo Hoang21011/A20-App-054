@@ -1,6 +1,6 @@
 
 # Lý do chọn đề tài  
-## “Kiểm thử UI tự động & QA phần mềm – xây dựng Screen & UI Agent”
+## “Kiểm thử UI tự động & QA phần mềm”
 
 ---
 
@@ -147,7 +147,7 @@
 
 ---
 
-# 🔁 7. Data Flow (end-to-end)
+# 7. Data Flow (end-to-end)
 
 1. Input URL  
 2. LLM → sinh test cases  
