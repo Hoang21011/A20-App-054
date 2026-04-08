@@ -158,3 +158,14 @@
 
 ---
 
+# Techstack cho project Screen & UI Agent
+
+## Test Automation: Playwright
+## AI / LLM: Large Language Model (OpenAI hoặc open-source)
+## Backend: Python (FastAPI)
+## Frontend: React (dashboard, report)
+## Storage:
+- PostgreSQL (metadata)
+- S3 / object storage (log, screenshot, video)
+## CI/CD: GitHub Actions
+
